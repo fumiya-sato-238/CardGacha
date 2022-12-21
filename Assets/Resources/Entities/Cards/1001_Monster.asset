@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc5127632aaa4d8985164529784e47e, type: 3}
+  m_Name: 1001_Monster
+  m_EditorClassIdentifier: 
+  rare: 1
+  name: FistGirl
+  icon: {fileID: 21300000, guid: a814940e47504874d8027a860d5bc5e2, type: 3}
+  descriptionText: "\u62F3\u306E\u5973\u3002\n\u6700\u521D\u306B\u4F5C\u3063\u305F\u30AB\u30FC\u30C9\u3067\u3082\u3042\u308B\u3002"
