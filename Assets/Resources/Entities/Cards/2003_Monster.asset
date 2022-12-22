@@ -15,3 +15,4 @@ MonoBehaviour:
   rare: 2
   name: Guard B
   icon: {fileID: 21300000, guid: 1ee0179d1f9b0874693d43ddb6cdd811, type: 3}
+  descriptionText: "\u540D\u524D\u306E\u7531\u6765\u306F\u4E0D\u660E"

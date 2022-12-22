@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: 4005_Monster
   m_EditorClassIdentifier: 
   rare: 4
-  name: "\u95C7\u306E\u5973\u9A0E\u58EB"
+  name: "\u9ED2\u3044\u5973\u9A0E\u58EB"
   icon: {fileID: 21300000, guid: c83a5ed35ec0842e4a758505ba2852b6, type: 3}
+  descriptionText: "\u30B7\u30E3\u25CB\u30D0\u306B\u51FA\u3066\u304D\u305D\u3046"

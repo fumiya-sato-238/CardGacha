@@ -15,3 +15,4 @@ MonoBehaviour:
   rare: 2
   name: Fire
   icon: {fileID: 21300000, guid: 37db3613ed51d024188d1cae32d3e59a, type: 3}
+  descriptionText: "\u708E\u306E\u30E2\u30F3\u30B9\u30BF\u30FC"

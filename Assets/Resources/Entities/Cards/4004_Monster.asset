@@ -15,3 +15,4 @@ MonoBehaviour:
   rare: 4
   name: Queen
   icon: {fileID: 21300000, guid: 3f25f1ef8e392405098bbc2f4fdcc486, type: 3}
+  descriptionText: "\u5B87\u5B99\u306E\u5973\u738B"

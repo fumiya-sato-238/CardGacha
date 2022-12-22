@@ -15,3 +15,4 @@ MonoBehaviour:
   rare: 1
   name: Water Girl
   icon: {fileID: 21300000, guid: baece212664c04a10af206a4c46a3222, type: 3}
+  descriptionText: "\u6C34\u8272\u306E\u5973\u306E\u5B50"

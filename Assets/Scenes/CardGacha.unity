@@ -1687,8 +1687,12 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 879798260989511485, guid: 94c5fc801d4874267a67eb64010c0b15, type: 3}
-      propertyPath: rareNumbers.Array.data[2]
+      propertyPath: rareNumbers.Array.data[1]
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 879798260989511485, guid: 94c5fc801d4874267a67eb64010c0b15, type: 3}
+      propertyPath: rareNumbers.Array.data[2]
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 879798260989511485, guid: 94c5fc801d4874267a67eb64010c0b15, type: 3}
       propertyPath: rareNumbers.Array.data[3]

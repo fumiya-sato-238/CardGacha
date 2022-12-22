@@ -15,3 +15,4 @@ MonoBehaviour:
   rare: 1
   name: elf
   icon: {fileID: 21300000, guid: 9cb235d3da66b4c8ea24152999ed9ea4, type: 3}
+  descriptionText: "\u305F\u3060\u306E\u30A8\u30EB\u30D5"

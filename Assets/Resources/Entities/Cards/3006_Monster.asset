@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3dc5127632aaa4d8985164529784e47e, type: 3}
-  m_Name: 3004_Monster
+  m_Name: 3006_Monster
   m_EditorClassIdentifier: 
   rare: 3
-  name: "\u7A7A\u98DB\u3076\u30ED\u30DC"
-  icon: {fileID: 21300000, guid: b897216970c104ed19ad7693f50777e3, type: 3}
-  descriptionText: "\u3044\u3064\u3082\u7A7A\u3092\u98DB\u3093\u3067\u308B"
+  name: "\u91D1\u8272\u306E\u30ED\u30DC\u30C3\u30C8"
+  icon: {fileID: 21300000, guid: d4fe0771a3e9e4ee4b7d1e2ccffe5623, type: 3}
+  descriptionText: "\u6B63\u9762\u5411\u3044\u3066\u308B\u304B\u3063\u3053\u3044\u3044\u30ED\u30DC\u30C3\u30C8"
